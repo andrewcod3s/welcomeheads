@@ -1,0 +1,11 @@
+# Use & for color codes and {player} for player name placeholder
+
+welcome-message:
+  - "============================"
+  - "&ePlayer: &a{player}"
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - "============================="

@@ -1,0 +1,6 @@
+name: WelcomeHeads
+version: '1.0'
+main: me.andrew.welcomeHeads.WelcomeHeads
+api-version: '1.21'
+authors: [ andrewcod3s ]
+website: https://andrewcod3s.github.io/andrewcod3s/
